@@ -48,7 +48,6 @@ module.exports = function (config) {
 
     preprocessors: {
       'test/*': [
-        'jsx-loader',
         'webpack'
       ]
     },
